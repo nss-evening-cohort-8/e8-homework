@@ -1,5 +1,7 @@
 # HW Week 19
 
+ALL THREE OF THESE ASSIGNMENTS ARE DUE JANUARY 7, 2019.
+
 ### Study Group Assignment:
 1. [Developer++ Part 2](https://github.com/nss-nightclass-projects/developerPlusPlus/blob/master/part2.md) - Add some more cards, code it.
 
